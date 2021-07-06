@@ -15,7 +15,6 @@ curl https://sh.rustup.rs -sSf | sh -s -- -q -y --default-toolchain nightly
 
 # extract software
 cd /polaris/src
-tar xzf polaris.tar.gz
 
 # build polaris
 cd /polaris/src/polaris
